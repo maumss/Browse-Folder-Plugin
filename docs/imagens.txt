@@ -1,1 +1,5 @@
-http://www.veryicon.com/icons/system/sleek-xp-basic/folder-open-12.html
+Image source: http://www.veryicon.com/icons/system/sleek-xp-basic/folder-open-12.html
+
+Source repository: git@github.com:maumss/Browse-Folder-Plugin.git
+									 https://github.com/maumss/Browse-Folder-Plugin.git
+									 https://github.com/maumss/Browse-Folder-Plugin
