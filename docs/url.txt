@@ -1,0 +1,4 @@
+Source repository:
+  git@github.com:maumss/browse-folder-plugin.git
+	https://github.com/maumss/browse-folder-plugin.git
+	https://github.com/maumss/browse-folder-plugin
