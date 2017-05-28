@@ -52,7 +52,7 @@ import java.io.IOException;
  * Description: Plugin para abrir o caminho de um arquivo no explorer
  * Date: March 29, 2013, 11:08:00 AM
  *
- * @author Mauricio Soares da Silva (mauricio.soares)
+ * @author Mauricio Soares da Silva
  */
 @ActionID(category = "File",
         id = "br.com.yahoo.mau_mss.browsefolder.BrowseFolder")
