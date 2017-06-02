@@ -19,7 +19,7 @@ Go to `Tools > Browse Folder` and click.
 - Opens the file location on your disk
 
 ## Credits
-Mauricio Soares da Silva - [maumss.git@gmail.com](mailto:maumss.git@gmail.com).
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
